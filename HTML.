@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>noticia</title>
+    <link rel="stylesheet" href="Mascotas.css">
+<link rel ="icon" type="icon/Imagen" href="icono.jfif"
+>
+</head>
+<body>
+     <h1>noticias relevantes bolivia</h1>
+
+</h2>
+<ul>
+    <li>incremento de precios </li>
+    <li>bloqueadores evistas arrestadoos </li>
+    <li> falta de disel y gasolina </li>
+    <li> elecciones de agosto</li>
+   
+</ul>
+<h2>incremento de precios</h2>
+
+    <img src="pree.jfif">
+    <P>
+        Ministro Flores: “Hay suficiente producción de alimentos,
+         no debería haber alza de precios”
+        El ministro de Desarrollo Rural y Tierras, Yamil Flores,
+         detalló los alcances de las medidas asumidas por el Gobierno para asegurar el abastecimiento de productos
+          de la canasta básica y reducir los precios al consumidor 
+</P>
+    <table src: border="5px solid" >
+        <tr>
+            <th>Imagen</th>
+           
+        </tr>
+        <h2>bloqueadores evistas arrestadoos</h2>    
+
+    <img src="arresto.jfif">
+    <P>
+        - El ministro de Gobierno, Roberto Ríos, 
+        informó que más de 143 personas fueron detenidas desde el inicio de las movilizaciones impulsadas por afines a Evo Morales 
+        y a muchas de ellas se sorprendió con más de Bs 3 millones y explosivos, lo que confirmó “un patrón de financiamiento irregular 
+        y organización violenta en las protestas”.
+        “Son más de 143 personas detenidas desde que se han iniciado las movilizaciones, 
+        entre arrestadas y aprehendidas, a las cuales se les ha identificado con grandes 
+        sumas de dinero”, dijo Ríos en entrevista con Bolivia Tv.
+</P>
+<h2> faltade disel y gasolina</h2>
+
+    <img src="gasolina.jfif">
+    <P>
+        En Bolivia, se está experimentando escasez de diésel y gasolina,
+        debido a una combinación de factores como la baja producción nacional, 
+        la falta de divisas para importación y problemas logísticos. Esto ha llevado a largas filas en las estaciones de servicio y 
+        ha afectado a diversos sectores de la economía
+</P>
+<h2>elecciones de agosto</h2>
+
+<img src="elecciones.jfif">
+<P>
+    Las elecciones generales de Bolivia están previstas para realizarse el 17 de agosto de 2025, con una posible segunda vuelta el 19 de octubre de 2025.
+
+</P>  
+</body>
+</html>

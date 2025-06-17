@@ -1,0 +1,22 @@
+body
+{
+    background-color: beige;
+}
+h1
+{
+    
+   text-align: center; color: rgb(41, 244, 14);
+}
+.img-perro {
+    width: 300px;
+ 
+}
+.mascotas
+{
+    text-align: center;
+}
+h2{
+color: rgb(0, 195, 255);
+}
+
+
